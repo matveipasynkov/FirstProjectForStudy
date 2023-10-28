@@ -1,0 +1,15 @@
+/Users/macos/Projects/KDZ/KDZ_Project_1/bin/Debug/net6.0/KDZ_Project_1
+/Users/macos/Projects/KDZ/KDZ_Project_1/bin/Debug/net6.0/KDZ_Project_1.deps.json
+/Users/macos/Projects/KDZ/KDZ_Project_1/bin/Debug/net6.0/KDZ_Project_1.runtimeconfig.json
+/Users/macos/Projects/KDZ/KDZ_Project_1/bin/Debug/net6.0/KDZ_Project_1.dll
+/Users/macos/Projects/KDZ/KDZ_Project_1/bin/Debug/net6.0/KDZ_Project_1.pdb
+/Users/macos/Projects/KDZ/KDZ_Project_1/obj/Debug/net6.0/KDZ_Project_1.csproj.AssemblyReference.cache
+/Users/macos/Projects/KDZ/KDZ_Project_1/obj/Debug/net6.0/KDZ_Project_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Projects/KDZ/KDZ_Project_1/obj/Debug/net6.0/KDZ_Project_1.AssemblyInfoInputs.cache
+/Users/macos/Projects/KDZ/KDZ_Project_1/obj/Debug/net6.0/KDZ_Project_1.AssemblyInfo.cs
+/Users/macos/Projects/KDZ/KDZ_Project_1/obj/Debug/net6.0/KDZ_Project_1.csproj.CoreCompileInputs.cache
+/Users/macos/Projects/KDZ/KDZ_Project_1/obj/Debug/net6.0/KDZ_Project_1.dll
+/Users/macos/Projects/KDZ/KDZ_Project_1/obj/Debug/net6.0/refint/KDZ_Project_1.dll
+/Users/macos/Projects/KDZ/KDZ_Project_1/obj/Debug/net6.0/KDZ_Project_1.pdb
+/Users/macos/Projects/KDZ/KDZ_Project_1/obj/Debug/net6.0/KDZ_Project_1.genruntimeconfig.cache
+/Users/macos/Projects/KDZ/KDZ_Project_1/obj/Debug/net6.0/ref/KDZ_Project_1.dll
