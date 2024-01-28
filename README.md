@@ -1,4 +1,4 @@
-# ProjectForUniversity1Rus (english version: soon)
+# FirstProjectForStudyRus 
 Это мой первый проект, который был задан в качестве домашнего задания в вузе.
 
 # Задание
