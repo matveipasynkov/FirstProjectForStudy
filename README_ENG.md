@@ -1,5 +1,5 @@
 # FirstProjectForStudy
-This is my first project that was assigned as homework in higher education.
+This is my first project that was assigned as homework in university.
 
 # Task
 ## Project 1
